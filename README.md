@@ -1,4 +1,4 @@
-# apod-api-master--1-
+# apod-api-NASA--1-
 #APOD: Astronomy Picture of the Day using NASA's API downloaded from NASA website https://github.com/nasa/apod-api (I have made some modifications for completing the project)
 This web application retrieves and displays the Astronomy Picture of the Day (APOD) using data from NASA's API. To enable this functionality, an API key from NASA has been obtained and integrated into the application.
 
