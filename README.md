@@ -3,10 +3,9 @@
 This web application retrieves and displays the Astronomy Picture of the Day (APOD) using data from NASA's API. To enable this functionality, an API key from NASA has been obtained and integrated into the application.
 
 Tools
-Javascript
 Python
-HTML/CSS
-Bootstrap 5.2.0
+HTML
+CSS
 MongoDB
 Flask
 Instructions
