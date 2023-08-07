@@ -14,7 +14,7 @@ This project is organized into two main parts:
 Scraping (contained in the file apod_object_parser.py)
 MongoDB and Flask Application (apod_spp2.py)
 Part 1: Scraping
-The application employs tools like , BeautifulSoup, Python, and Requests/Splinter for data scraping.
+The application employs tools like Python, and Requests/Splinter for data scraping.
 
 A file named apod_object_parser.py conducts all the necessary scraping and analysis tasks.
 NASA APOD Data
